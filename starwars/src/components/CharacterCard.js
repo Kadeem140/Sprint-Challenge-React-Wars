@@ -12,7 +12,7 @@ export default function CharacterCard(props){
     width: 80%;
     height: 900px;
     color: black;
-    background: tan;
+    background: #f5f5dc;
     margin: 0 auto;
     font-size: 1.6rem;
     display: flex;
